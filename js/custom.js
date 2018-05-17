@@ -95,6 +95,8 @@ $(function() {
     loop: true,
     autoplay: true,
     smartSpeed: 500,
+    autoplayHoverPause: true,
+    autoplaySpeed: 1000
   });
 
   // Blog carsouel
